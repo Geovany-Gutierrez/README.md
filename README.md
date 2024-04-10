@@ -1,6 +1,4 @@
-### Geovany Gutierrez 🔮
-
-## Programador Front-End
+### Geovany Gutierrez 🔮 Programador Front-End
 
 Tenho 17 anos e *sou um entusiasta em tecnologia*.
 
@@ -39,4 +37,6 @@ Tenho 17 anos e *sou um entusiasta em tecnologia*.
   <img align="center" style="margin: 5px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img align="center" style="margin: 5px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs" />
   <img align="center" style="margin: 5px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</div>
+
 </div>
