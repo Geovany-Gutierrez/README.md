@@ -1,4 +1,4 @@
-### Geovany Gutierrez 🔮 Programador Front-End
+### Geovany Gutierrez 🖱️
 
 Tenho 17 anos e *sou um entusiasta em tecnologia*.
 
