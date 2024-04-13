@@ -10,11 +10,11 @@ Tenho 17 anos e *sou um entusiasta em tecnologia*.
 
 ## Status (2024)
 
-![Geovany-Gutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovany-Gutierrez&show_icons=true&theme=dark)
+![Geovany-Gutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovany-Gutierrez&show_icons=true&theme=dracula)
 
 ### Linguagens/Tecnologias 👩🏻‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovany-Gutierrez)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovany-Gutierrez&layout=donut)]
 ## Conhecimentos
 
 <div style="display: inline_block">
