@@ -2,11 +2,11 @@
 
 Tenho 17 anos e *sou um entusiasta em tecnologia*.
 
-## Redes sociais 💻
+<!--## Redes sociais 💻
 
-<a href="https://www.linkedin.com/in/geovany-g-0a0736269">
+<a href="">
   <img style="border-radius: 4px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin">
-</a>
+</a>-->
 
 ## Status (2024)
 
