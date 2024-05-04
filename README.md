@@ -12,11 +12,11 @@ echo "e *sou um entusiasta em tecnologia*."
 
 ## Status (2024)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geovany-Gutierrez&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geovany-Gutierrez&theme=dracula&show_icons=true)
 
 ### Linguagens/Tecnologias 👩🏻‍💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovany-Gutierrez&layout=pie&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovany-Gutierrez&layout=pie&theme=dark)
 
 ## Conhecimentos
 
