@@ -1,7 +1,9 @@
 ### Geovany Gutierrez 🖱️
 
-Tenho 17 anos e *sou um entusiasta em tecnologia*.
-
+~~~node
+echo "Tenho 17 anos"
+echo "e *sou um entusiasta em tecnologia*."
+~~~
 <!--## Redes sociais 💻
 
 <a href="">
@@ -50,10 +52,10 @@ Tenho 17 anos e *sou um entusiasta em tecnologia*.
 
 ### Mobile - Estudando
 
-![.NET MAUI](https://github.com/Geovany-Gutierrez/Geovany-Gutierrez/blob/main/images.jpeg)
+<img src="https://github.com/Geovany-Gutierrez/Geovany-Gutierrez/blob/main/images.jpeg" width="200" alt=".Net Maui">
 <details>
   <summary>Planejo Estudar</summary>
-  <img src="https://github.com/Geovany-Gutierrez/Geovany-Gutierrez/blob/main/images.png" alt="JavaEKotlin"/>
+<img src="https://github.com/Geovany-Gutierrez/Geovany-Gutierrez/blob/main/images.png" alt="JavaEKotlin" width="200" alt="Kotlin e java">
 </details>
 
 ## Estudando 👩🏻‍💻
